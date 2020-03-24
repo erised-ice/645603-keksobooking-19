@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Alexandra Panteleeva](https://up.htmlacademy.ru/javascript/19/user/645603).
-* Наставник: `Неизвестно`.
+* Наставник: `Roman`.
 
 ---
 
